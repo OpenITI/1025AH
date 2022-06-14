@@ -1,4 +1,4 @@
-00#BOOK#URI######: 1004ShamsDinRamli.FatawaRamli
+00#BOOK#URI######: 1011IbnShahidThani.TahrirTawusi
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
@@ -13,4 +13,7 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: collected by Shams al-dīn al-Ramlī = son of Shihāb al-dīn.
+90#BOOK#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.
