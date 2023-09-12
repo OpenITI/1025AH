@@ -6,9 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/FP8208/00_8208/mode/1up
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: PageV03P234, PageV03P236, PageV03P245, PageV03P247 are
-        missing.
+    missing.
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1025AH/pre-clean/data/1025IbnQadiMaknasi/1025IbnQadiMaknasi.DurratHijal/1025IbnQadiMaknasi.DurratHijal.Sham19Y0132965-ara1.completed
 90#VERS#DATE#####: 2022-12-14
 90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION
